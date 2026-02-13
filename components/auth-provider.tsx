@@ -11,7 +11,7 @@ interface AuthContextType {
 const AuthContext = createContext<AuthContextType | null>(null)
 
 const VALID_CREDENTIALS = {
-  mobiles: ["6201002422", "9390042102"],
+  mobiles: ["6201002421", "9390042101"],
   password: "Shaan8877!!"
 }
 

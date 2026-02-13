@@ -10,25 +10,25 @@ const loveNotes = [
   {
     id: 1,
     title: "My Favorite Person",
-    message: "Every moment with you feels like a beautiful dream I never want to wake up from. You are my sunshine on cloudy days and my comfort in every storm.",
+    message: "Your are the favorite person that I want to spend all my time with. Seeing you smile is the best part of my day, and being with you feels like home.",
     color: "bg-primary/10",
   },
   {
     id: 2,
     title: "Why I Love You",
-    message: "I love the way you laugh, the way you care, and the way you make ordinary moments feel extraordinary. With you, everything is an adventure.",
+    message: "I feel safe and happy when I'm with you. you won't judge me for my flaws, and you love me for who I am. Make me better person and I want to be the best for you. I love you more than words can express.",
     color: "bg-accent/20",
   },
   {
     id: 3,
     title: "My Promise",
-    message: "I promise to always be there for you, to hold your hand through life's journey, and to love you more with each passing day.",
+    message: "I promise to be a better person, to be there in all sorrow and happiness, so that we are happy and lifes feels easy. No matter what life throws at us, I will always choose you and our love.",
     color: "bg-secondary",
   },
   {
     id: 4,
     title: "You Are...",
-    message: "You are the reason I believe in love, the melody in my heart, and the most beautiful chapter in my story. Forever grateful for you.",
+    message: "You are the reason I believe in love, make me come this far and gives me happiness even after so much effort and time. Forever grateful for you.",
     color: "bg-primary/10",
   },
   {

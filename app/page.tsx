@@ -141,19 +141,7 @@ export default function HomePage() {
                     </svg>
                   ),
                 },
-                {
-                  title: "Bubu Dudu",
-                  description: "Cute bear universe",
-                  href: "/bubu-dudu",
-                  icon: (
-                    <svg width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
-                      <circle cx="12" cy="12" r="10" />
-                      <path d="M8 14s1.5 2 4 2 4-2 4-2" />
-                      <line x1="9" y1="9" x2="9.01" y2="9" />
-                      <line x1="15" y1="9" x2="15.01" y2="9" />
-                    </svg>
-                  ),
-                },
+                
               ].map((card, index) => (
                 <motion.div
                   key={card.title}
@@ -162,7 +150,7 @@ export default function HomePage() {
                   transition={{ delay: 1 + index * 0.2 }}
                 >
                   <Link
-                    href={card.href}
+                     href={card.href}
                     className="block p-4 md:p-6 bg-card rounded-2xl border border-border hover:border-primary/50 hover:shadow-lg transition-all group h-full"
                   >
                     <div className="w-12 h-12 md:w-16 md:h-16 bg-secondary rounded-full flex items-center justify-center text-primary mb-3 md:mb-4 group-hover:scale-110 transition-transform">

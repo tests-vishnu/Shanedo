@@ -15,7 +15,8 @@ const navItems = [
   { href: "/activities", label: "Mastiii" },
   { href: "/vibe-together", label: "Ganne" },
   { href: "/play-together", label: "Khel" },
-  { href: "/bubu-dudu", label: "Bubu Dudu" },
+  // Temporarily hide Bubu Dudu section
+  // { href: "/bubu-dudu", label: "Bubu Dudu" },
 ]
 
 export function ValentineNav() {

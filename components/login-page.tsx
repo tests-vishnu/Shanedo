@@ -76,7 +76,7 @@ export function LoginPage() {
             </motion.div>
             
             <h1 className="font-serif text-3xl md:text-4xl text-foreground mb-2">
-              Welcome, My Love
+              Welcome, My Shanedo
             </h1>
             <p className="text-muted-foreground">
               Enter your details to unlock our special place
@@ -151,7 +151,7 @@ export function LoginPage() {
 
           {/* Footer */}
           <p className="text-center text-muted-foreground text-sm mt-8">
-            Made with love, just for you
+            Made with love, just for you shanedo. &hearts;
           </p>
         </div>
       </motion.div>
